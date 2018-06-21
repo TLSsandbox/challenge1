@@ -40,9 +40,9 @@ Beware: Only deliver the correct ingredients or you’ll be fired!
 <img src="ReadmeAssets/spacebar.png" width="450">
 <img src="ReadmeAssets/enterkey.png" width="200">
 
-## [Back Story](https://medium.com/windows-developer/deliver-the-famous-bitcoin-pizza-in-this-retro-video-game-challenge-get-a-10-000-tip-3796d6ca5b2f)
+## Back Story
 
-You may have heard of the Bitcoin pizza legend. One fateful spring afternoon in 2010, Laszlo Hanyecz paid for two hot and delicious pizzas via Bitcoin, and the first official Bitcoin purchase was written into history. Little did he know that his actions were the first in a whirlwind trend that ultimately resulted in the valuation of those two pizzas ringing up at $100,000,000 at the peak of Bitcoin valuation.
+You may have heard of the [Bitcoin pizza legend](https://medium.com/windows-developer/deliver-the-famous-bitcoin-pizza-in-this-retro-video-game-challenge-get-a-10-000-tip-3796d6ca5b2f). One fateful spring afternoon in 2010, Laszlo Hanyecz paid for two hot and delicious pizzas via Bitcoin, and the first official Bitcoin purchase was written into history. Little did he know that his actions were the first in a whirlwind trend that ultimately resulted in the valuation of those two pizzas ringing up at $100,000,000 at the peak of Bitcoin valuation.
 
 Thus, Bitcoin Pizza Day was born. A day still celebrated each May 22nd amongst blockchain enthusiasts, financial speculators and anybody that has an interest in internet mythology. But has anyone spared a thought for the delivery person who carried those two cheesy, melty pies to Hanyecz’s door? If not for that delivery person, Bitcoin Pizza Day may have never been engraved in internet legend, and then who knows what course the universe would have taken. What did they get out of it? Was there even a tip?
 
