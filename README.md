@@ -34,6 +34,7 @@ You are the world’s greatest pizza delivery person. Anywhere pizza is needed, 
  * Avoid the pesky paper boy!
  * Fire = bad!
 
+
 <img src="ReadmeAssets/HUD.png">
 
 <strong>WASD or Arrows navigate game menus and control the pizza delivery truck:</strong>
