@@ -1,6 +1,6 @@
 <img src="ReadmeAssets/thelastslice.jpg">
 
-## Challenge 1
+# Challenge 1
 
 This is the first of three challenges for The Last Slice: A retro 8-bit video game that's currently impossible to beat. Clone or download the code, install the prerequisites on your Windows 10 PC, open TheLastSlice.sln file with Visual Studio and run the game. You have the source code...change it any way you'd like to beat the game.
 
@@ -29,7 +29,12 @@ But hurry - to be eligible to compete in the third and final challenge, you'll n
 
 You are the world’s greatest pizza delivery person. Anywhere pizza is needed, you are there! When an order comes in, drive your pizza delivery truck to collect the correct ingredients scattered across the map. With the ingredients added to your inventory, deliver the order to the marked house on the map.
 
-Beware: Only deliver the correct ingredients or you’ll be fired!
+ * Beware: Only deliver the correct ingredients or you’ll be fired!
+ * Keep an eye on your gas tank!
+ * Avoid the pesky paper boy!
+ * Fire = bad!
+
+<img src="ReadmeAssets/HUD.png">
 
 <strong>WASD or Arrows navigate game menus and control the pizza delivery truck:</strong>
 
@@ -39,8 +44,6 @@ Beware: Only deliver the correct ingredients or you’ll be fired!
 
 <img src="ReadmeAssets/spacebar.png" width="450">
 <img src="ReadmeAssets/enterkey.png" width="200">
-
-<img src="ReadmeAssets/HUD.png">
 
 ## Back Story
 
