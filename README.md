@@ -1,5 +1,9 @@
 <img src="ReadmeAssets/thelastslice.jpg">
 
+## Challenge 1
+
+This is the first of three challenges for The Last Slice: A retro 8-bit video game that's currently impossible to beat. Clone or download the code, install the prerequisites on your Windows 10 PC, open TheLastSlice.sln file with Visual Studio and run the game. You have the source code...change it any way you'd like to beat the game.
+
 ## The Prerequisites
 
 Here's what you'll need to get started:
