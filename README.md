@@ -41,6 +41,7 @@ You are the world’s greatest pizza delivery person. Anywhere pizza is needed, 
 
 <img src="ReadmeAssets/WASD.png"><img src="ReadmeAssets/arrows.png">
 
+
 <strong>Spacebar or Enter to select a menu option or deliver a pizza to the highlighted house:</strong>
 
 <img src="ReadmeAssets/spacebar.png" width="450">
