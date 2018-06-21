@@ -40,7 +40,7 @@ Beware: Only deliver the correct ingredients or you’ll be fired!
 <img src="ReadmeAssets/spacebar.png" width="450">
 <img src="ReadmeAssets/enterkey.png" width="200">
 
-## Back Story
+## [Back Story](https://medium.com/windows-developer/deliver-the-famous-bitcoin-pizza-in-this-retro-video-game-challenge-get-a-10-000-tip-3796d6ca5b2f)
 
 You may have heard of the Bitcoin pizza legend. One fateful spring afternoon in 2010, Laszlo Hanyecz paid for two hot and delicious pizzas via Bitcoin, and the first official Bitcoin purchase was written into history. Little did he know that his actions were the first in a whirlwind trend that ultimately resulted in the valuation of those two pizzas ringing up at $100,000,000 at the peak of Bitcoin valuation.
 
