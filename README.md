@@ -21,7 +21,7 @@ The Last Slice retro video game is fun to play, but impossible to beat as coded.
 
 ## The Reward
 
-Solving this challenge gives you instant access to challenge 2, and you'll be one step closer to being one of five lucky participants that could win $10,000 USD.
+Solving this challenge gives you instant access to [challenge 2](https://github.com/KneadMoreDough/KneadMoreDough), and you'll be one step closer to being one of five lucky participants that could win $10,000 USD.
 
 But hurry - to be eligible to compete in the third and final challenge, you'll need to solve both this challenge and challenge 2 before midnight UTC on July 17, 2018.
 
